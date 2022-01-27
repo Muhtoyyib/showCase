@@ -62,3 +62,60 @@ opacity: 1;
     margin-left: 10px;
     background-color: #0d3b7e;
 }
+
+#about{
+    background-image: url("images/img6");
+}
+
+#abouth3{
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: #021027;
+    opacity: 1;
+}
+
+#aboutimg{
+    margin-top: -30px;
+}
+
+#about p{
+    text-align: left;
+    font: normal normal normal 16px/24px DM Sans;
+    letter-spacing: 0px;
+    color: #67707E;    
+}
+
+#aboutbtn{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #1A75FC;
+    border-radius: 33px;
+    opacity: 1;
+    width: 200px;
+    height: 55px;
+}
+
+#pricing{
+    margin-top: 150px;
+}
+
+#pricingimg1{
+    margin-top: 150px;
+}
+
+#pricing h3{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: #021027;
+    opacity: 1;
+}
+
+#pricing p{
+    text-align: center;
+    font: normal normal normal 16px/24px DM Sans;
+    letter-spacing: 0px;
+    color: #67707E;
+    opacity: 1;
+}
