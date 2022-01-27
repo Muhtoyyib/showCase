@@ -33,3 +33,32 @@ opacity: 1;
 .nav-link{
     color:#000000;
 }
+
+#row{
+    margin-top: 30px;
+}
+
+#rowsubdiv{
+    margin-top: 50px;
+}
+
+#rowsubdiv h5{
+    color: #2078fc;
+}
+
+#rowp{
+    text-align: left;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #021027;
+    opacity: 1;
+}
+
+#rowbtn{
+    border-radius: 50px;
+    width: 130px;
+    margin-left: 10px;
+    background-color: #0d3b7e;
+}
