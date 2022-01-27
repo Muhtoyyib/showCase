@@ -15,3 +15,21 @@ opacity: 1;
     width: 525px;
     height: 191px;    
 }
+
+.vl{
+    border-left: 3px solid black;
+    height: 30px;
+    margin-top: 7px;
+}
+
+
+#headerBtn{
+    border-radius: 50px;
+    width: 130px;
+    margin-left: 10px;
+    background-color: #0d3b7e;
+}
+
+.nav-link{
+    color:#000000;
+}
