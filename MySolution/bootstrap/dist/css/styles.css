@@ -159,3 +159,31 @@ hr{
     text-align: center;
     color: white;
 }
+
+@media (min-width: 480px) and (max-width: 599px) {
+    #header-image{
+        position: absolute;
+        top: 0px;
+        left: 150px;
+        width: 25px;
+        height: 91px;    
+    }
+
+    #rowp{
+        font-size: 30px;
+    }
+
+    #rowimg{
+        margin-top: 70px;
+    }
+
+    #p{
+        
+    }
+} /* small devices */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+
