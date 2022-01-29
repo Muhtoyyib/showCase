@@ -200,7 +200,17 @@ hr{
     #header-image{
         position: absolute;
         top: 0px;
-        left: 10px;
+        left: -30px;
+        width: 25px;
+        height: 21px;    
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #header-image{
+        position: absolute;
+        top: 0px;
+        left: -30px;
         width: 25px;
         height: 21px;    
     }
